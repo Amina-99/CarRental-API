@@ -1,0 +1,201 @@
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\appsettings.json
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\DiplomskiRad.exe
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\DiplomskiRad.deps.json
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\DiplomskiRad.runtimeconfig.json
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\DiplomskiRad.runtimeconfig.dev.json
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\DiplomskiRad.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\ref\DiplomskiRad.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\DiplomskiRad.pdb
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Humanizer.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.csprojAssemblyReference.cache
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.AssemblyInfoInputs.cache
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.AssemblyInfo.cs
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.csproj.CoreCompileInputs.cache
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\staticwebassets\DiplomskiRad.StaticWebAssets.Manifest.cache
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\staticwebassets\DiplomskiRad.StaticWebAssets.xml
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\scopedcss\bundle\DiplomskiRad.styles.css
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.RazorTargetAssemblyInfo.cache
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.csproj.CopyComplete
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\ref\DiplomskiRad.dll
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.pdb
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.genruntimeconfig.cache
+C:\Users\amina\source\repos\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\appsettings.Development.json
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\appsettings.json
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\DiplomskiRad.exe
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\DiplomskiRad.deps.json
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\DiplomskiRad.runtimeconfig.json
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\DiplomskiRad.runtimeconfig.dev.json
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\DiplomskiRad.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\ref\DiplomskiRad.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\DiplomskiRad.pdb
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\AutoMapper.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Humanizer.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.csproj.AssemblyReference.cache
+D:\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.GeneratedMSBuildEditorConfig.editorconfig
+D:\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.AssemblyInfoInputs.cache
+D:\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.AssemblyInfo.cs
+D:\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.csproj.CoreCompileInputs.cache
+D:\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.MvcApplicationPartsAssemblyInfo.cs
+D:\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.MvcApplicationPartsAssemblyInfo.cache
+D:\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\staticwebassets\DiplomskiRad.StaticWebAssets.Manifest.cache
+D:\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\staticwebassets\DiplomskiRad.StaticWebAssets.xml
+D:\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\scopedcss\bundle\DiplomskiRad.styles.css
+D:\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.RazorTargetAssemblyInfo.cache
+D:\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.csproj.CopyComplete
+D:\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.dll
+D:\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\ref\DiplomskiRad.dll
+D:\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.pdb
+D:\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.genruntimeconfig.cache
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\appsettings.json
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\DiplomskiRad.exe
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\DiplomskiRad.deps.json
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\DiplomskiRad.runtimeconfig.json
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\DiplomskiRad.runtimeconfig.dev.json
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\DiplomskiRad.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\ref\DiplomskiRad.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\DiplomskiRad.pdb
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.csproj.AssemblyReference.cache
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.AssemblyInfoInputs.cache
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.AssemblyInfo.cs
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.csproj.CoreCompileInputs.cache
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\staticwebassets\DiplomskiRad.StaticWebAssets.Manifest.cache
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\staticwebassets\DiplomskiRad.StaticWebAssets.xml
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\scopedcss\bundle\DiplomskiRad.styles.css
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.RazorTargetAssemblyInfo.cache
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.csproj.CopyComplete
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\ref\DiplomskiRad.dll
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.pdb
+C:\Users\Amina Mujezinovic\Desktop\DiplomskiRad\DiplomskiRad\obj\Debug\net5.0\DiplomskiRad.genruntimeconfig.cache
