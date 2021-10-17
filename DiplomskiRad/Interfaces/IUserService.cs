@@ -9,10 +9,12 @@ namespace DiplomskiRad.Interfaces
 {
     public interface IUserService
     {
-        void Update(AppUser user);
-        Task<bool> SaveAllAsync();
+     
         Task<AppUser> GetUserByIdAsync(int id);
         Task<IEnumerable<AppUser>> GetUsersAsync();
+        Task<bool> RegisterUserAsync(RegisterDto registerDto);
+        Task<UserDto> LoginUserAsync(LoginDto loginDto);
+        Task<bool> UserExists(string username);
 
     }
 }

@@ -4,6 +4,7 @@ using DiplomskiRad.Entities;
 using DiplomskiRad.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,55 +14,58 @@ using System.Threading.Tasks;
 
 namespace DiplomskiRad.Controllers
 {
-    public class AccountController : BaseApiController
+    [ApiController]
+    [Route("api/[controller]")]
+    public class AccountController : ControllerBase
     {
-        private readonly DataContext _context;
-        private readonly ITokenService _tokenService;
-        public AccountController(DataContext context, ITokenService tokenService)
+        private readonly IUserService _userService;
+        private readonly ILogger<AccountController> _logger;
+
+        public AccountController(IUserService userService, ILogger<AccountController> logger)
         {
-            _context = context;
-            _tokenService = tokenService;
+            _userService = userService;
+            _logger = logger;
         }
+
         [HttpPost("register")]
         public async Task<ActionResult<UserDto>> Register(RegisterDto registerDto)
         {
-            if (await UserExists(registerDto.Username)) return BadRequest("Username is taken");
-            using var hmac = new HMACSHA512();
-            var user = new AppUser
+            try
             {
-                UserName = registerDto.Username.ToLower(),
-                PasswordHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(registerDto.Password)),
-                PasswordSalt = hmac.Key, 
-                RolaId=2
+                if (await _userService.UserExists(registerDto.Username)) return BadRequest("Username is taken");
 
-            };
-            _context.Users.Add(user);
-            await _context.SaveChangesAsync();
-            return Ok();
+                if (await _userService.RegisterUserAsync(registerDto))
+                {
+                    return Ok();
+                }
+                else return BadRequest("Something went wrong");
+            }
+            catch (Exception e)
+            {
+                _logger.LogError(e, "GET: /api/Account/register");
+                return StatusCode(500);
+            }
+
         }
         [HttpPost("login")]
         public async Task<ActionResult<UserDto>> Login(LoginDto loginDto)
         {
-            var user = await _context.Users.Include(u => u.Rola).SingleOrDefaultAsync(x => x.UserName == loginDto.Username);
-            if (user == null) return Unauthorized("Invalid username");
-            using var hmac = new HMACSHA512(user.PasswordSalt);
-            var computedHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(loginDto.Password));
-            for(int i=0; i<computedHash.Length; i++)
+            try
             {
-                if(computedHash[i]!= user.PasswordHash[i]) return Unauthorized("Invalid password");
+                var user = await _userService.LoginUserAsync(loginDto);
+                if (user == null)
+                    return BadRequest("Invalid username or password");
+                else
+                    return Ok(user);
             }
-            return new UserDto
+            catch (Exception e)
             {
-                Username = user.UserName,
-                Token = _tokenService.CreateToken(user),
-                RolaId = user.Rola.Id
-            };
+                _logger.LogError(e, "GET: /api/Account/login");
+                return StatusCode(500);
+            }
         }
 
-        private async Task<bool> UserExists(string username)
-        {
-            return await _context.Users.AnyAsync(x => x.UserName == username.ToLower());
-    }
+     
     }
   
    

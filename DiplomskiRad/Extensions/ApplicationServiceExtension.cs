@@ -21,6 +21,7 @@ namespace DiplomskiRad.Extensions
             services.AddScoped<IUserService, UserService>();
             services.AddScoped<ICarService, CarService>();
             services.AddScoped<IReservationService, ReservationService>();
+            services.AddScoped<IAnalyticsService, AnalyticsService>();
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddAutoMapper(typeof(AutoMapperProfiles).Assembly);
             services.AddDbContext<DataContext>(options =>
